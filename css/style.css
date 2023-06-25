@@ -1,5 +1,5 @@
 /***************************************************************************************************************
-|||||||||||||||||||||||||||||||       MASTER STYLESHEET FOR RideFlex             ||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||       MASTER STYLESHEET FOR RIDEFLEX             ||||||||||||||||||||||||||||||||||
 ****************************************************************************************************************
 ||||||||||||||||||||||||||||              TABLE OF CONTENT                  ||||||||||||||||||||||||||||||||||||
 ****************************************************************************************************************
@@ -375,7 +375,7 @@ body.active-preloader-ovh {
 .header-navigation ul.navigation-box > li > a:active,
 .header-navigation ul.navigation-box > li > a:focus,
 .header-navigation ul.navigation-box > li:hover > a {
-  color: #343434;
+  color: #F3AA4D;
 }
 .header-navigation ul.navigation-box > li > a {
   padding: 0;
@@ -701,10 +701,8 @@ body.active-preloader-ovh {
   color: #6747F1;
 }
 .header-home-five .header-navigation.stricky-fixed {
-  background: #5e3bed;
-  background: -webkit-gradient(left top, right top, color-stop(0%, #5e3bed), color-stop(100%, #826cfd));
-  background: -webkit-gradient(linear, left top, right top, from(#5e3bed), to(#826cfd));
-  background: linear-gradient(to right, #5e3bed 0%, #826cfd 100%);
+  background: #121820;
+
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5e3bed', endColorstr='#826cfd', GradientType=1);
 }
 
@@ -1015,10 +1013,7 @@ body.active-preloader-ovh {
 
 .banner-style-five {
   overflow: hidden;
-  background: #5e3bed;
-  background: -webkit-gradient(left top, right top, color-stop(0%, #5e3bed), color-stop(100%, #826cfd));
-  background: -webkit-gradient(linear, left top, right top, from(#5e3bed), to(#826cfd));
-  background: linear-gradient(to right, #5e3bed 0%, #826cfd 100%);
+  background: #121820;
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5e3bed', endColorstr='#826cfd', GradientType=1 );
   padding-top: 190px;
   padding-bottom: 160px;
